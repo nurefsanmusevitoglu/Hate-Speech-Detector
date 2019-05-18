@@ -1,5 +1,33 @@
 # Hate-Speech-Detector
 ## Machine Learning project deciding whether a tweet contains hatespeech 
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+svg {
+  display: block;
+  height: 400px;
+  margin: 50px auto;
+}
+</style>
+<svg viewBox="328 355 335 276" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+    M 630, 425
+    A 195, 195 0 0 1 331, 600
+    A 142, 142 0 0 0 428, 570
+    A  70,  70 0 0 1 370, 523
+    A  70,  70 0 0 0 401, 521
+    A  70,  70 0 0 1 344, 455
+    A  70,  70 0 0 0 372, 460
+    A  70,  70 0 0 1 354, 370
+    A 195, 195 0 0 0 495, 442
+    A  67,  67 0 0 1 611, 380
+    A 117, 117 0 0 0 654, 363
+    A  65,  65 0 0 1 623, 401
+    A 117, 117 0 0 0 662, 390
+    A  65,  65 0 0 1 630, 425
+    Z"
+    style="fill:#3BA9EE;"/>
+</svg>
 
   Social media provides the chance to people of explaining themselves to whole world. When they want to express their thoughts, emotions, ideas etc. they use social media. In 2019, number of social media users is around 2.77 billion worldwide. Active Twitter users around the world is 330 million.
   Allowing people to express themselves freely may result in offensive behaviors to other people. It is reported that posts including hate speech in social media are increasing every year. Social media companies’ procedures on hate speech show difference in detail but generally they are based on complaints and deleted manually. Twitter has the lowest removal rate on hate speech.
