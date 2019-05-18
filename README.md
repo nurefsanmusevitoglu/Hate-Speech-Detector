@@ -1,7 +1,5 @@
 # Hate-Speech-Detector
 ## Machine Learning project deciding whether a tweet contains hatespeech 
-[![alt text][1.1]][1] 
-[1.1]: http://i.imgur.com/tXSoThF.png
 
   Social media provides the chance to people of explaining themselves to whole world. When they want to express their thoughts, emotions, ideas etc. they use social media. In 2019, number of social media users is around 2.77 billion worldwide. Active Twitter users around the world is 330 million.
   Allowing people to express themselves freely may result in offensive behaviors to other people. It is reported that posts including hate speech in social media are increasing every year. Social media companies’ procedures on hate speech show difference in detail but generally they are based on complaints and deleted manually. Twitter has the lowest removal rate on hate speech.
