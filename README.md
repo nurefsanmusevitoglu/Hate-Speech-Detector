@@ -22,3 +22,12 @@
 - Recurrent Neural Network (RNN) 
 
 The results after applying these methods have been compared to see which algorithm works best for this type of problem.
+
+
+## Team Members:
+
+- [Nurefşan Müsevitoğlu](https://github.com/nurefsanm)
+- [Muammer Tan](https://github.com/mtan96)
+- [Yasin Balcancı](https://github.com/ybalcanci)
+- [Semih Teker](https://github.com/semihteker)
+- Nejdet Balkır Göka
